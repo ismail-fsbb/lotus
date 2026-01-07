@@ -32,7 +32,7 @@ export default function ForgotPassword() {
           type="submit"
           className="w-full bg-blue-600 text-white py-2 rounded"
         >
-          Reset Password
+          Reset your Password
         </button>
       </form>
     </div>
