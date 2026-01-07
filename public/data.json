@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "PUBG Mobile",
+    "coverPhoto": "/games-images-1.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty Mobile",
+    "coverPhoto": "/games-images-2.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty Mobile brings classic multiplayer and battle royale action to mobile.",
+    "ratings": "4.6",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Free Fire",
+    "coverPhoto": "/games-images-3.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/",
+    "description": "Free Fire is a mobile battle royale game with fast matches and unique characters.",
+    "ratings": "4.4",
+    "developer": "Garena"
+  },
+  {
+    "id": "4",
+    "title": "Fortnite",
+    "coverPhoto": "/games-images-4.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.fortnite.com/",
+    "description": "Fortnite is a battle royale game with building mechanics and live events.",
+    "ratings": "4.7",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "5",
+    "title": "Apex Legends",
+    "coverPhoto": "/games-images-5.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.ea.com/games/apex-legends",
+    "description": "Apex Legends is a hero-based battle royale with fast-paced squad gameplay.",
+    "ratings": "4.6",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "id": "6",
+    "title": "Valorant",
+    "coverPhoto": "/games-images-6.jpg",
+    "category": "Tactical FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a competitive tactical shooter with character abilities.",
+    "ratings": "4.5",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "7",
+    "title": "Minecraft",
+    "coverPhoto": "/games-images-7.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/",
+    "description": "Minecraft lets players build, explore, and survive in a block-based world.",
+    "ratings": "4.8",
+    "developer": "Mojang"
+  },
+  {
+    "id": "8",
+    "title": "Genshin Impact",
+    "coverPhoto": "/games-images-8.jpg",
+    "category": "RPG",
+    "downloadLink": "https://genshin.hoyoverse.com/",
+    "description": "Genshin Impact is an open-world action RPG with elemental combat.",
+    "ratings": "4.6",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "9",
+    "title": "Clash of Clans",
+    "coverPhoto": "/games-images-9.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Clash of Clans is a strategy game focused on building villages and battling.",
+    "ratings": "4.7",
+    "developer": "Supercell"
+  },
+  {
+    "id": "10",
+    "title": "Among Us",
+    "coverPhoto": "/games-images-10.jpg",
+    "category": "Party",
+    "downloadLink": "https://www.innersloth.com/games/among-us/",
+    "description": "Among Us is a multiplayer social deduction game.",
+    "ratings": "4.5",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "11",
+    "title": "Asphalt 9",
+    "coverPhoto": "/games-images-11.jpg",
+    "category": "Racing",
+    "downloadLink": "https://www.gameloft.com/game/asphalt-9",
+    "description": "Asphalt 9 is an arcade racing game with real cars and high-speed action.",
+    "ratings": "4.4",
+    "developer": "Gameloft"
+  },
+  {
+    "id": "12",
+    "title": "League of Legends",
+    "coverPhoto": "/games-images-12.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://www.leagueoflegends.com/",
+    "description": "League of Legends is a competitive team-based MOBA game.",
+    "ratings": "4.6",
+    "developer": "Riot Games"
+  }
+]
