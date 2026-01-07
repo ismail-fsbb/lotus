@@ -8,7 +8,7 @@ export default function DynamicTitle() {
     const path = location.pathname;
 
     let title = "Lotus";
-
+    // All dynamic routes
     if (path === "/") title = "Home | Lotus";
     else if (path === "/about") title = "About | Lotus";
     else if (path === "/games") title = "Games | Lotus";
