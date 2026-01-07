@@ -18,12 +18,6 @@ export default function ErrorPage() {
 
           {/* Actions */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button
-              onClick={() => window.history.back()}
-              className="px-6 py-3 rounded-lg bg-gray-800 text-gray-200 hover:bg-gray-700 transition cursor-pointer"
-            >
-              Go Back
-            </button>
             <a
               href="/"
               className="px-6 py-3 rounded-lg bg-red-500 text-white hover:bg-red-600 transition cursor-pointer"
