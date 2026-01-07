@@ -1,5 +1,9 @@
 # React + Vite
-[Live Site](https://lotus-9ea879.netlify.app/)
+## 🌐 Live Site
+<a href="https://lotus-9ea879.netlify.app/" target="_blank" rel="noopener noreferrer">
+  https://lotus-9ea879.netlify.app/
+</a>
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
